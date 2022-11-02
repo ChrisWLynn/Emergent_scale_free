@@ -1,7 +1,7 @@
 # Emergent_scale_free
 Code used to perform the analyses in the paper "Emergent scale-free networks" by Christopher W. Lynn, Caroline M. Holmes, and Stephanie E. Palmer.
 
-The real networks are listed in "network_info.csv". The data for each network can be found on Dropbox:
+The real networks are listed in "network_info.csv". The data for each network can be found on Dropbox: https://www.dropbox.com/sh/vy5syx1ye5mplni/AAAeZaDXno2lcQ1-m7m3z34Qa?dl=0
 
 For each network, each row corresponds to a distinct edge. The edges are listed in the temporal order in which they occurred.
 
